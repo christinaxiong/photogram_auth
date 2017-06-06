@@ -1,4 +1,4 @@
-source 'http://rubygems.org'
+source 'https://rubygems.org'
 
 gem "starter_generators", :git => "https://github.com/raghubetina/starter_generators"
 gem "devise"
